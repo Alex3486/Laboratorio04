@@ -11,7 +11,6 @@ namespace Laboratorio04
         public double[] Calcular(int[] nums)
         {
             double suma = 0.0;
-
             foreach (int num in nums)
             {
                 suma = suma + num;
