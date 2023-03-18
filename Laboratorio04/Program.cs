@@ -4,9 +4,9 @@
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Nombre: ");
-            Console.WriteLine("Carnet: ");
-            Console.WriteLine("Seccion: ");
+            Console.WriteLine("Nombre: Edgar Alexander Pinto Tobar");
+            Console.WriteLine("Carnet: 1162420");
+            Console.WriteLine("Seccion: 10");
         }
     }
 }
